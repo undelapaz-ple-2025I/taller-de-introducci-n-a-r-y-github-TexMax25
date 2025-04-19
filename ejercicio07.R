@@ -6,6 +6,6 @@ solucion <- function() {
   b <- 8
   c <- 5
   d <- 3
-  s <- NULL # ingresa expresión aquí
+  s <- (a + b + c + d) / 4 # ingresa expresión aquí
   return(s)
 }
